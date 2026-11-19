@@ -1,0 +1,23 @@
+{
+ "deterministic surrogate, lambda=5e-3, l_y=4": {
+  "J_adjoint_code": 0.6792993642148724,
+  "J_forward_code": 0.679299364214873,
+  "rel_l2_error": 1.7858543059075365e-08,
+  "max_abs_error": 8.11953648413577e-10,
+  "grad_norm": 0.29219112836288763
+ },
+ "noise-blind, lambda=0": {
+  "J_adjoint_code": 0.48879693312517336,
+  "J_forward_code": 0.48879693312517414,
+  "rel_l2_error": 2.152590041825639e-08,
+  "max_abs_error": 9.689143064262051e-10,
+  "grad_norm": 0.24827475597424434
+ },
+ "ensemble cost, 30 samples": {
+  "J_adjoint_code": 0.4137420106214548,
+  "J_forward_code": 0.413742010621455,
+  "rel_l2_error": 5.8870025909694484e-09,
+  "max_abs_error": 2.4002605111816955e-10,
+  "grad_norm": 0.2311209818454454
+ }
+}

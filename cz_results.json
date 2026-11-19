@@ -1,0 +1,24 @@
+{
+ "clean_fidelity": 0.9997654384897896,
+ "clean_infidelity": 0.00023456151021039595,
+ "iterations": 400,
+ "restarts_used": 1,
+ "restart_log": [
+  {
+   "restart": 1,
+   "clean_infidelity": 0.00023456151021039595,
+   "objective": 0.01304509210779566,
+   "nit": 400
+  }
+ ],
+ "wall_s": 17.57759213299994,
+ "mc_samples": 1000,
+ "mc_mean": 0.9976597869547341,
+ "mc_std": 0.0015339329903901575,
+ "mc_median": 0.9979978832814748,
+ "mc_min": 0.9891023569312997,
+ "mc_max": 0.9998587010893654,
+ "mc_mean_infidelity": 0.002340213045265882,
+ "J_noise": 120.77273086850833,
+ "max_abs_control": 11.371598474584989
+}
